@@ -5,7 +5,6 @@ An end-to-end data analysis project examining 119,390 hotel bookings across two 
 
 ## Dataset
 - **Source:** Antonio, N., Almeida, A., & Nunes, L. (2019). Hotel Booking Demand Datasets. *Data in Brief*, Volume 22. https://doi.org/10.1016/j.dib.2018.11.126
-- **Available on Kaggle:** https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 - **Size:** 119,390 bookings | 32 variables | July 2015 – August 2017
 - **Hotels:** H1 = Resort Hotel (Algarve) | H2 = City Hotel (Lisbon)
 
